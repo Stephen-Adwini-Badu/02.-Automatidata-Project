@@ -1,7 +1,7 @@
 # Automatidata Project
 
 ## Overview
-This project is part of the Google Advanced Data Analytics curriculum and focuses on analyzing taxi fare data to derive actionable insights. The project consists of two primary objectives:
+This project focuses on analyzing taxi fare data to derive actionable insights. The project consists of two primary objectives:
 
 1. **Two-Sample T-Test Analysis**: Investigate the relationship between the total fare amounts of credit card payment users and cash payment users.
 2. **Regression Model Development**: Build a predictive model to estimate taxi fares based on available data.
