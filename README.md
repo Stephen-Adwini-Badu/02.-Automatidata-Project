@@ -32,9 +32,9 @@ This project focuses on analyzing taxi fare data to derive actionable insights. 
    - Split the data into training and testing subsets.
    - Train and evaluate the model using metrics such as R-squared and mean squared error.
 
-## Redundancies
-- Analyzed the results of the t-test to guide payment method recommendations.
-- Evaluated the performance of the regression model to ensure it provides accurate predictions.
+## Insights
+- Analyze the results of the t-test to guide payment method recommendations.
+- Evaluate the performance of the regression model to ensure it provides accurate predictions.
 
 ## Results
 - Key findings from the statistical test and regression analysis will guide data-driven decisions for improving taxi service operations.
