@@ -38,3 +38,6 @@ This project focuses on analyzing taxi fare data to derive actionable insights. 
 
 ## Results
 - Key findings from the statistical test and regression analysis will guide data-driven decisions for improving taxi service operations.
+
+### FEATURE IMPORTANCE
+![Image](https://github.com/user-attachments/assets/5f25c477-6b72-494d-beb0-1058f0f87416)
