@@ -30,7 +30,10 @@ This project focuses on analyzing taxi fare data to derive actionable insights. 
 2. **Regression Modeling**:
    - Feature engineering to identify relevant predictors for fare estimation.
    - Split the data into training and testing subsets.
-   - Train and evaluate the model using metrics such as R-squared and mean squared error.
+   - Train and evaluate the model using metrics such as R-squared and mean squared error, mean percentage error and visual metrics such as roc and calibration curves
+
+![2 2](https://github.com/user-attachments/assets/cca32687-2054-4b37-9c11-767bde78009c)
+
 
 ## Insights
 - Analyze the results of the t-test to guide payment method recommendations.
@@ -38,6 +41,3 @@ This project focuses on analyzing taxi fare data to derive actionable insights. 
 
 ## Results
 - Key findings from the statistical test and regression analysis will guide data-driven decisions for improving taxi service operations.
-
-### FEATURE IMPORTANCE
-![Image](https://github.com/user-attachments/assets/5f25c477-6b72-494d-beb0-1058f0f87416)
